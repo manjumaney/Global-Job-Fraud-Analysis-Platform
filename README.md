@@ -40,7 +40,7 @@ It started as part of a Data Analysis with Python course during my Master’s in
 If the model is unavailable, a fallback heuristic is used so the system still works.
 
 
-## 🏗️ Project structure
+## Project structure
 
 ```text
 frontend/   → React + Vite UI (deployed on Vercel)
